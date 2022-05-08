@@ -1,0 +1,71 @@
+<style type="text/css">
+
+   a:link { text-decoration: none;}        
+   a:visited {text-decoration: none; color:BLUE;}
+   a:hover {text-decoration: underline; color: #0000AA;}
+BODY {
+font-family: "", "u"; font-size:9pt; color:#333333; line-height:140%;
+  margin: 0;
+  padding: 0;
+  background-color: #FFFFFF;
+}
+
+IMG {
+  border: 0;
+}
+.p_title {font-size:17pt; color:#CC3333; line-height:150%;}
+td, select, input, div, form, textarea, center, option, pre, blockquote {font-size:9pt; color:#666666; font-family:; line-height:140%;}
+* {
+                        font-size: 12px;
+                      }
+                      table.chart1 td.cell1{
+                        border-top: solid 1 #d1d1d1;
+                        border-bottom: solid 1 #d1d1d1;
+                        padding-top: 3px;
+                        padding-bottom: 3px;
+                        padding-left: 0px;
+                        padding-right: 0px;
+                        background-color: #e9e9e9;
+                      }
+                      table.chart {
+                        border-top: solid 1px #d1d1d1;
+                        border-bottom: solid 1px #d1d1d1;
+                        border-left: 0px;
+                        border-right: 0px;
+                      }
+                      table.chart td.title {
+                        background-color: #f4f4f4;
+                        color: black;
+                        height: 30px;
+                        border-left:solid 1 #e9e9e9;
+                      }
+                      table.chart td.item {
+                        background-color: #f4f4f4;
+                        color: #993399;
+						text-align: left;
+                        border-top: solid 1 #e9e9e9;
+                      }
+					  table.chart td.item2 {
+                        background-color: #f4f4f4;
+                        color: #993399;
+						text-align: center;
+                        border-top: solid 1 #e9e9e9;
+                      }
+                      table.chart td.content {
+                        background-color: white;
+                        color: #6b6b6b;
+                        padding-left: 20px;
+                        border-top: solid 1 #e9e9e9;
+                        border-left: solid 1 #e9e9e9;
+                      }
+					  .style1 {
+	font-size: 10pt;
+	font-weight: bold;
+}
+.style2 {
+	font-size: 11pt;
+	font-weight: bold;
+	color : #ff6633;
+}
+
+</style>                     
